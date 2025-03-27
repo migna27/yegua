@@ -95,7 +95,9 @@ public class Venta {
    
    
    
-   
+   /*
+   calcula el subtotal dependiendo el tipo de venta
+   */
     public void calcularSubtotal(){
     //if (tipoventa == TipoVenta.CONTADO);
    double subtotalCalculado = 0;

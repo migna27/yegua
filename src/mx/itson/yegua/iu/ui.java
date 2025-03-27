@@ -10,7 +10,10 @@ package mx.itson.yegua.iu;
  */
 public class ui {
     public static void main(String[] args) {
-        System.out.println("Venta de articulos");
+        System.out.println("iniciando venta de articulos");
         
+        while(true){
+        System.out.println("ingrese el nombre del articulo");
+        }
     }
 }
